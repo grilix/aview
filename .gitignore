@@ -1,0 +1,6 @@
+/ext/Makefile
+/ext/aview_ext.so
+/ext/*.o
+/ext/mkmf.log
+/ext/extconf.h
+/aview-*.gem
